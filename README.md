@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**paulgillpc/paulgillpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, this is what I am currently working on! 👋
 
 Here are some ideas to get you started:
 
@@ -9,5 +6,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning blockchain development, financial data science and machine learning
 - 👯 I’m looking to collaborate on Fintech Projects, Ethereum Smart Contracts, and LegalTech Projects
 - 🤔 I’m looking for help with creating a legal tech app that can provide access to individuals with legal problems. 
-- 📫 How to reach me: paulgillpc@gmail.com
+- 📫 How to reach me: paulgillpc@gmail.com 
 -->
